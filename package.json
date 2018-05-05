@@ -1,0 +1,25 @@
+{
+  "name": "beau-expect",
+  "version": "1.0.0",
+  "description": "Beau expect allows you to make assertions on your requests.",
+  "main": "./lib/expect.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seich/beau-expect.git"
+  },
+  "keywords": [
+    "beaujs"
+  ],
+  "author": "David Diaz <seich@martianwabbit.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seich/beau-expect/issues"
+  },
+  "homepage": "https://github.com/Seich/beau-expect#readme",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
